@@ -6,7 +6,6 @@
 - NVIDIA CUDA Toolkit (for CUDA implementation)
 - Windows environment with MSYS2
 
-## Directory Structure
 ```
 PC_Assignment_03/
 ├── Serial/
